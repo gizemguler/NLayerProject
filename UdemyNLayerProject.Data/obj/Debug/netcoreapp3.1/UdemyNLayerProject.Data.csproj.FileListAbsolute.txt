@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.deps.json
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.json
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.dll
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\bin\Debug\netcoreapp3.1\UdemyNLayerProject.Core.pdb
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.csproj.CopyComplete
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.dll
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.pdb
+C:\Users\lenovo\source\repos\NLayerProject\UdemyNLayerProject.Data\obj\Debug\netcoreapp3.1\UdemyNLayerProject.Data.genruntimeconfig.cache
